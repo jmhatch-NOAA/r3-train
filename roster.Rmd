@@ -1,5 +1,6 @@
 ---
-pagetitle: "Home | R3"
+title: "Roster"
+pagetitle: "Roster | R3"
 output:
   html_document:
     toc: false
@@ -11,11 +12,14 @@ output:
 knitr::opts_chunk$set(echo = T, warning = F, message = F)
 ```
 
+To add yourself to this roster, please complete up to Lesson [1.8 Contribute website with fork & pull request](https://noaa-iea.github.io/r3-train/collaborate.html#18_Contribute_website_with_fork__pull_request).
+
 ```{r}
 librarian::shelf(
   dplyr, DT, glue, readr)
 
 read_csv("data/roster.csv") %>% 
+  arrange(github_username) %>% 
   mutate(
     user      = glue("<a href='https://github.com/{github_username}'>@{github_username}</a>"),
     exercises = glue("<a href='{exercises_website}'>{basename(exercises_website)}</a>")) %>% 
