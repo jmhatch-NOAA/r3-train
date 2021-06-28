@@ -5,9 +5,9 @@ navbar:
     - text: "Collaborate"
       icon: "fab fa-github"
       href: collaborate.html
-    # - text: "Manipulate"
-    #   icon: "fas fa-wrench"
-    #   href: manipulate.html
+    - text: "Manipulate"
+      icon: "fas fa-wrench"
+      href: manipulate.html
   right:
     - text: "Setup"
       icon: "fas fa-cogs"
@@ -32,9 +32,6 @@ output:
     code_folding: "show"
     number_sections: true
     anchor_sections: true
-    pandoc_args: [
-      "--number-sections",
-      "--number-offset=2"]
     highlight: "default"
     # include:
     #   after_body: libs/after_body.html
