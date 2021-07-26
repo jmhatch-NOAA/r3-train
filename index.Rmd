@@ -65,7 +65,7 @@ discussion and exercise completion time. All webinars will be
     spatial features sf R package in conjuction with dplyr to wrangle
     and summarize. Use the raster R package for gridded data. Generate
     interactive maps with leaflet.\
-    [Slides](https://docs.google.com/presentation/d/1ZHqQbGIPa1smv7oXAyu6oOzRWyQ2AFa7M9FC21J_shM/edit#slide=id.p4), [Lesson](./map.html) \
+    [Video](https://youtu.be/tQ4gv8WLxrw), [Slides](https://docs.google.com/presentation/d/1ZHqQbGIPa1smv7oXAyu6oOzRWyQ2AFa7M9FC21J_shM/edit#slide=id.p4), [Lesson](./map.html) \
     \
 5.  July 19: **Report**\
     Dive into Rmarkdown for for knitting formatted text (markdown) with
@@ -74,6 +74,7 @@ discussion and exercise completion time. All webinars will be
     chapters, flexdashboard for dashboards and Rmarkdown websites for
     simple websites with shared navigation. Automatically render with
     Github Actions.\
+    [Video](https://youtu.be/kPoBnWY4xqg), [Slides](https://docs.google.com/presentation/d/15I1i1bw1lyKeFYA1p2d98fvhR8DjD9J66zBUCC7c2g8), [Lesson](./report.html) \
     \
 6.  July 26: **Infographics**\
     Use a custom infographiq Javascript library to intelligently link
