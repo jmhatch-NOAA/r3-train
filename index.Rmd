@@ -78,8 +78,9 @@ discussion and exercise completion time. All webinars will be
     \
 6.  July 26: **Infographics**\
     Use a custom infographiq Javascript library to intelligently link
-    icons of ecosystems to pop-up windows containing data figures, which
+    icons of ecosystem elements to pop-up windows containing data figures, which
     could be static images or interactive visualizations.\
+    [Video](https://youtu.be/wQn05c8CHhs), [Slides](https://docs.google.com/presentation/d/11UFk-6k7oKJcnziBbkNYSz5Miq8SVUEiY5UmI3nWUDA/edit#slide=id.p), [Lesson](./infographics.html) \
     \
 7.  August 2: **Applications**\
     Use the Shiny framework to develop online interactive applications
@@ -87,10 +88,12 @@ discussion and exercise completion time. All webinars will be
     Server requirements differentiating from simpler Rmarkdown
     renderings will be reviewed as well as use of Crosstalk to gain
     similar functionality with Rmarkdown with simple data.\
+    [Video](https://youtu.be/ELDb_KB81jk), [Slides](https://docs.google.com/presentation/d/19XTk3sT9InpVlltTBa3TUm50Uv8gE_v0_3wjuNxx8WA/edit?usp=sharing), [Lesson](./apps.html) \
     \
 8.  August 9: **Packages**\
     An R package is a documented set of functions that can act as
     building blocks for data ingestion, analysis, visualization and
     reporting. We'll go over the basics of creating an R package and
-    documenting functions within.
+    documenting functions within.\
+    [Slides](https://docs.google.com/presentation/d/1Jt4xZP7twPoykHzyblMMRVGxgt9weUN1111OOKdkPU8/edit?usp=sharing), [Lesson](./packages.html) \
     \

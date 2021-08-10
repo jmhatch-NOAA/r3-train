@@ -17,12 +17,18 @@ navbar:
     - text: "Report"
       icon: "fas fa-book"
       href: report.html
+    - text: "Infographics"
+      icon: "fas fa-info-circle"
+      href: infographics.html
+    - text: "Applications"
+      icon: "fas fa-rocket"
+      href: apps.html
   right:
     - text: "Setup"
       icon: "fas fa-cogs"
       href: setup.html
     - text: "Resources"
-      icon: "fas fa-book"
+      icon: "fas fa-search"
       href: resources.html
     - text: "Roster"
       icon: "fas fa-user-friends"
